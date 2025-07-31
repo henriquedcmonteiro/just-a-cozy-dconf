@@ -13,12 +13,12 @@ This theme features:
 
 ## Preview
 
-<p align="center">
-  <img src="preview-user.png" alt="Cozy theme - User mode" width="600"/>
+<p align="left">
+  <img src="/img/user-terminal.png" alt="Cozy theme - User mode" width="600"/>
 </p>
 
-<p align="center">
-  <img src="preview-root.png" alt="Cozy theme - Root mode" width="600"/>
+<p align="left">
+  <img src="/img/root-terminal.png" alt="Cozy theme - Root mode" width="600"/>
 </p>
 
 ## Installation
@@ -26,6 +26,6 @@ This theme features:
 1. Download the config file .dconf
 2. In your terminal use the command bellow.
 
-``
+```
 dconf load /org/gnome/terminal/legacy/profiles:/ < gnome-terminal-cozy.dconf
-``
+```
