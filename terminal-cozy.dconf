@@ -1,4 +1,9 @@
 [/]
+list=['df6baa20-27a3-49fd-a6b0-9ee54b79207c']
+default='df6baa20-27a3-49fd-a6b0-9ee54b79207c'
+
+[:df6baa20-27a3-49fd-a6b0-9ee54b79207c]
+visible-name='Cozy'
 audible-bell=true
 background-color='rgb(12,12,16)'
 background-transparency-percent=10
@@ -18,4 +23,3 @@ use-system-font=false
 use-theme-colors=false
 use-theme-transparency=false
 use-transparent-background=true
-visible-name='Cozy'
